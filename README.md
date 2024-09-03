@@ -22,7 +22,7 @@ To tackle this challenge I...
    
 + BeautifulSoup Documentation (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   
-+ Splinter Documentation (https://docs.sqlalchemy.org/en/20/)](https://splinter.readthedocs.io/en/stable/)
++ Splinter Documentation (https://splinter.readthedocs.io/en/stable/)
   
 + Previous Bootcamp Challenges (Github.com)
 
