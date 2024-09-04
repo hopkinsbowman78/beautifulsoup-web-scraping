@@ -32,10 +32,7 @@ To tackle this challenge I...
 
 ## Table of Contents
 
-#### Surf's Up                  
-+ Resources folder (hawaii.sqlite, hawaii_measurements.csv, hawaii_stations.csv)
-+ climate_starter.ipynb (Climate Analysis and Data Exploration)
-+ app.py (Flask API)
-
-
-#### ReadMe
+#### part_1_mars_news.ipynb  
+#### part_2_mars_weather.ipynb  
+#### mars_weather_data.csv  
+#### ReadMe  
